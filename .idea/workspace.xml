@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/users_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users_controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/address.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/address.php" afterDir="false" />
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649458962759</updated>
       <workItem from="1649458964173" duration="13985000" />
-      <workItem from="1649628879733" duration="11965000" />
+      <workItem from="1649628879733" duration="12599000" />
     </task>
     <servers />
   </component>
