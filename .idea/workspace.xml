@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20abfae2-e03e-4c85-9112-f320a6243e56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AddressBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/users_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users_controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/address.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/address.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/addresses/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/addresses/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/addresses/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/addresses/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.php~Stashed changes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/pages/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/users/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/users/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/users/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/users/show.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27XGLglAXvQBFwDiaB7RD5Mv5AE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/users" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\TestJob\AddressBook\views\users" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20abfae2-e03e-4c85-9112-f320a6243e56" name="Default Changelist" comment="" />
+      <created>1649458962759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649458962759</updated>
+      <workItem from="1649458964173" duration="13985000" />
+      <workItem from="1649628879733" duration="11965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="445" key="SwitcherDM" timestamp="1649638914414">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1649638914414" />
+    <state x="365" y="109" width="636" height="520" key="find.popup" timestamp="1649463833416">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="365" y="109" width="636" height="520" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1649463833416" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1649635558616">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1649635558616" />
+  </component>
+</project>
