@@ -60,20 +60,20 @@
 
               $data = [
                   'id_address' => $_POST['id_address'],
-                  'firstName' => $_POST['first-name'],
-                  'lastName' => $_POST['last-name'],
+                  'firstName' => htmlspecialchars($_POST['first-name']),
+                  'lastName' => htmlspecialchars($_POST['last-name']),
                   'avatar' => $avatarPath,
-                  'company' => $_POST['company'],
+                  'company' => htmlspecialchars($_POST['company']),
                   'workEmail' => $_POST['work-email'],
                   'personalEmail' => $_POST['personal-email'],
                   'mobileNumber' => $_POST['mobile-number'],
                   'workNumber' => $_POST['work-number'],
                   'personalNumber' => $_POST['personal-number'],
-                  'street' => $_POST['street'],
-                  'city' => $_POST['city'],
-                  'state' => $_POST['state'],
-                  'zip' => $_POST['zip'],
-                  'country' => $_POST['country'],
+                  'street' => htmlspecialchars($_POST['street']),
+                  'city' => htmlspecialchars($_POST['city']),
+                  'state' => htmlspecialchars($_POST['state']),
+                  'zip' => htmlspecialchars($_POST['zip']),
+                  'country' => htmlspecialchars($_POST['country']),
               ];
               $address = address::updateAddress($data, $_SESSION["id_user"]);
 
@@ -99,20 +99,20 @@
             }
 
             $data = [
-                'firstName' => $_POST['first-name'],
-                'lastName' => $_POST['last-name'],
+                'firstName' => htmlspecialchars($_POST['first-name']),
+                'lastName' => htmlspecialchars($_POST['last-name']),
                 'avatar' => $avatarPath,
-                'company' => $_POST['company'],
+                'company' => htmlspecialchars($_POST['company']),
                 'workEmail' => $_POST['work-email'],
                 'personalEmail' => $_POST['personal-email'],
                 'mobileNumber' => $_POST['mobile-number'],
                 'workNumber' => $_POST['work-number'],
                 'personalNumber' => $_POST['personal-number'],
-                'street' => $_POST['street'],
-                'city' => $_POST['city'],
-                'state' => $_POST['state'],
-                'zip' => $_POST['zip'],
-                'country' => $_POST['country'],
+                'street' => htmlspecialchars($_POST['street']),
+                'city' => htmlspecialchars($_POST['city']),
+                'state' => htmlspecialchars($_POST['state']),
+                'zip' => htmlspecialchars($_POST['zip']),
+                'country' => htmlspecialchars($_POST['country']),
             ];
             $address = address::createAddress($data, $_SESSION["id_user"]);
 
