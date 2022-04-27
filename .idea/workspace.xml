@@ -49,14 +49,30 @@
       <workItem from="1650421947427" duration="270000" />
       <workItem from="1650422257261" duration="598000" />
       <workItem from="1650589914934" duration="16000" />
-      <workItem from="1651027609740" duration="2229000" />
+      <workItem from="1651027609740" duration="2571000" />
     </task>
+    <task id="LOCAL-00001" summary="removed assets/img/contacts folder from .gitignore">
+      <created>1651030842105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651030842105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed assets/img/contacts folder from .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed assets/img/contacts folder from .gitignore" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1651030841058">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1651030841058" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1650589926379">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
