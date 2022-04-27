@@ -76,8 +76,8 @@
                   'country' => htmlspecialchars($_POST['country']),
               ];
               $address = address::updateAddress($data, $_SESSION["id_user"]);
-              var_dump($address);
-              exit();
+//              var_dump($address);
+//              exit();
               if($address === 'error'){
                   $_SESSION["update_address_error"] = 'An error has occured during address update';
               }
