@@ -35,7 +35,7 @@
         $user = user::createUser($data['fullname'], $data['email'], $data['password']);
         // var_dump($user);
         // exit;
-        if($user == 'error'){
+        if($user === 'error'){
           $_SESSION["signup_login"] = 'An error has occured during creation';
           $this->redirectToSignup();
           exit;

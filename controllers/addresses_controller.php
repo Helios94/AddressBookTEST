@@ -76,8 +76,9 @@
                   'country' => htmlspecialchars($_POST['country']),
               ];
               $address = address::updateAddress($data, $_SESSION["id_user"]);
-
-              if($address == 'error'){
+              var_dump($address);
+              exit();
+              if($address === 'error'){
                   $_SESSION["update_address_error"] = 'An error has occured during address update';
               }
               header('Location: ?controller=addresses&action=index');
@@ -116,7 +117,7 @@
             ];
             $address = address::createAddress($data, $_SESSION["id_user"]);
 
-            if($address == 'error'){
+            if($address === 'error'){
               $_SESSION["new_address_error"] = 'An error has occured during address creation';
             }
             header('Location: ?controller=addresses&action=index');
