@@ -1,3 +1,6 @@
+<?php
+    ob_start(); // start output buffer (FIX FOR : cannot modify header information - headers already sent)
+?>
 <div class="container">
     <br/>
     <header class='nav'>
@@ -369,3 +372,6 @@
             </div>
         </div>
     </div>
+<?php
+    if (session_status() === PHP_SESSION_NONE) session_start();
+?>
